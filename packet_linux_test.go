@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mdlayher/packet"
+	"github.com/bfabec/packet"
 	"golang.org/x/sys/unix"
 )
 
